@@ -13,7 +13,7 @@ toc:
 ---
 Authors: [Frederik Hartmann](https://github.com/Frederik-Hartmann), [Yusuf Baran Tanrıverdi](https://www.github.com/yusuftengriverdi)
 \
-Github: [Github](https://github.com/Frederik-Hartmann/3DLungSegmentation)
+Code: [Github](https://github.com/Frederik-Hartmann/3DLungSegmentation)
 
 
 *This project was carried out within the scope of the Advanced Image Analysis course taught by [Prof. Alessandro Bria](https://www.unicas.it/didattica/docenti/teacherinfo.aspx?nome_cognome=alessandro_bria). The project was awarded with the best project award 2023. You can reach the more carefully worded report [here](https://yusuftengriverdi.github.io/blog/2023/04/15/lung_segmentation_3d). Scroll down for a beginner-friendly guide.*
