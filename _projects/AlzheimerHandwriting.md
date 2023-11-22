@@ -94,7 +94,8 @@ Visualisation of the third approach.
 For each of the different heads, multiple variants of unfrozen and frozen layers were tested.
 
 ## Results
-In the following, an example of the results is shown. For more detailed results, refer to the report.<table>
+In the following, an example of the results is shown. For more detailed results, refer to the report.
+<table>
   <caption>Classification using pen features results achieved with Random Forest</caption>
   <thead>
     <tr>
