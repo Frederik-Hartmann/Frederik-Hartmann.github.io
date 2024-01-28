@@ -4,7 +4,7 @@ title: A new brain atlas
 description: A brain atlas from scratch
 img: assets/projectImages/atlas/Dalle3_atlas.png
 importance: 1
-category: Registration & More
+category: Registration
 toc:
   sidebar: left
 ---
