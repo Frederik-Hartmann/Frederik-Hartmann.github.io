@@ -11,7 +11,9 @@ category: Segmentation
 ---
 Authors: [Frederik Hartmann](https://github.com/Frederik-Hartmann), [Xavier Beltran Urbano](https://xavibeltranurbano.github.io/)
 \
-Code: [Github]()
+Code: [Github](https://github.com/Frederik-Hartmann/Brain-tissue-segmentation-using-EM-and-GMM)
+\
+Report: [Github](https://xavibeltranurbano.github.io/assets/pdfs/EM_GMM.pdf)
 
 
 *This project was carried out within the scope of the Medical Image Segmentation course taught by [Prof. Dr. Xavier Lladó](http://atc.udg.edu/~llado/). You can reach a more mathematical report [here]().* 
