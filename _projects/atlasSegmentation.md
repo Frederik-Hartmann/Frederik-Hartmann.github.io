@@ -1,7 +1,7 @@
 ---
 layout: page
 title: atlas based segmentation
-description: A Hybrid Approach for Brain Tissue Segmentation: Integrating Gaussian Mixture Models with Atlas-based and Tissue Modeling Techniques
+description: A Hybrid Approach for Brain Tissue Segmentation. Integrating Gaussian Mixture Models with Atlas-based and Tissue Modeling Techniques
 img: assets/projectImages/atlasSegmentation/Dalle_3.png
 importance: 2
 category: Segmentation
@@ -25,7 +25,7 @@ November 2023
 The dataset used for this laboratory contains 20 cases, each with a T1-weighted scan and a ground truth (GT) consisting of segmentation masks for white matter (WM), grey matter (GM), and cerebrospinal fluid (CSF). A registration step was performed prior to the segmentation to register the atlas, i.e., the mean image, to the target. 
 
 <p align="center">
-  <img src="img/dataset.png" alt="Example of the different modalities of the dataset" width="400"/>
+  <img src="assets/projectImages/atlasSegmentation/dataset.png" alt="Example of the different modalities of the dataset" width="400"/>
   <br>
   <em>Fig.1. Example of the different modalities of the dataset. A) T1-weighted C) GT</em>
 </p>
@@ -173,7 +173,7 @@ _*Best initialization refers to the "Tissue Model" method in this context._
 In addition, some qualitative results are presented. In Figure 2 we can observe an example of the different segmentations techniques presented in this project. Additionally, the Figure 3 represents a visual comparison of the segmentation obtained by the best approach using our atlas, and the segmentation obtained using the MNI atlas.
 
 <p align="center">
-  <img src="img/results.png" alt="Example of the different modalities of the dataset" width="400"/>
+  <img src="assets/projectImages/atlasSegmentation/results.png" alt="Example of the different modalities of the dataset" width="400"/>
   <br>
   <em>Fig. 2: Example of the different results obtained in this project. A) Original Image B) GT C) Tissue Models Segmentation D)
 Probabilistic Atlas Segmentation E) Combination of C and D F) KMeans Initialization for GMM G) Tissue Models Initialization for
@@ -184,7 +184,7 @@ Probabilistic Atlas Into GMM algorithm</em>
 </p>
 
 <p align="center">
-  <img src="img/MNI.png" alt="Example of the different modalities of the dataset" width="400"/>
+  <img src="assets/projectImages/atlasSegmentation/MNI.png" alt="Example of the different modalities of the dataset" width="400"/>
   <br>
   <em>Fig. 3: Example of the segmentation by employing the MNI atlas. A) Original Image, B) Ground Truth, C) Best segmentation by
 employing our atlas, D) MNI segmentation</em>
