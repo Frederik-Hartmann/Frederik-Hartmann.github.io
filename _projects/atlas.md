@@ -11,7 +11,9 @@ toc:
 ---
 Authors: [Frederik Hartmann](https://github.com/Frederik-Hartmann), [Xavier Beltran Urbano](https://xavibeltranurbano.github.io/)
 \
-Code: [Github]()
+Code: [Github](https://github.com/Frederik-Hartmann/BrainAtlas)
+\
+Report: [Githhub](https://github.com/Frederik-Hartmann/BrainAtlas/blob/main/report/AtlasReport_BeltranAndHartmann.pdf)
 
 
 *This project was carried out within the scope of the Medical Image Registration course taught by [Prof. Dr. Robert Martí](https://scholar.google.com/citations?user=M_sM6x8AAAAJ&hl=en). You can reach a detailed report [here]().* 
