@@ -3,8 +3,8 @@ layout: page
 title: Alzheimer's Classification
 description: Classification through Handwriting Analysis
 img: assets/projectImages/AlzheimerWriting/DALLE3_Alzheimer_Handwriting.png
-importance: 4
-category: work
+importance: 1
+category: Classification
 toc:
   sidebar: left
 ---

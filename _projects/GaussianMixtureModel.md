@@ -4,7 +4,7 @@ title: Brain Tissue Segmentation
 description: Expectation Maximization with a Gaussian Mixture Model
 img: assets/img/Dalle3_gmm.png
 importance: 3
-category: work
+category: Segmentation
 ---
 
 # Brain tissue segmentation using an Expectation Maximization (EM) algorithm for Gaussian Mixture Models (GMM)
