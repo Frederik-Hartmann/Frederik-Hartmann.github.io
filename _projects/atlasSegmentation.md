@@ -2,7 +2,7 @@
 layout: page
 title: atlas based segmentation
 description: A Hybrid Approach for Brain Tissue Segmentation - Integrating Gaussian Mixture Models with Atlas-based and Tissue Modeling Techniques
-img: assets/projectImages/atlas/Dalle3_atlas.png
+img: assets/projectImages/atlasSegmentation/Dalle_3.png
 importance: 2
 category: Segmentation
 toc:
@@ -11,11 +11,11 @@ toc:
 ---
 Authors: [Frederik Hartmann](https://github.com/Frederik-Hartmann), [Xavier Beltran Urbano](https://xavibeltranurbano.github.io/)
 \
-Code: [Github]()
+Code: [Github](https://github.com/Frederik-Hartmann/Atlas-Based-Brain-Tissue-Segmentation)
+Report: [Github](https://github.com/Frederik-Hartmann/Atlas-Based-Brain-Tissue-Segmentation/blob/main/Report/LAB3_Report.pdf)
 
 
-*This project was carried out within the scope of the Medical Image Registration course taught by [Prof. Dr. Robert Martí](https://scholar.google.com/citations?user=M_sM6x8AAAAJ&hl=en). You can reach a detailed report [here]().* 
-
+*This project was carried out within the scope of the Medical Image Segmentation course taught by [Prof. Dr. Xavier Lladó](http://atc.udg.edu/~llado/).
 
 November 2023
 
