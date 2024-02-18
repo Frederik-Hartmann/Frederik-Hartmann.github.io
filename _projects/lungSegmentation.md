@@ -3,7 +3,7 @@ layout: page
 title: Lung Segmentation
 description: Three-Dimensional Lung Segmentation from CT Scans
 img: assets/img/dalle3_lung.png
-importance: 1
+importance: 3
 category: Segmentation
 toc:
   sidebar: left

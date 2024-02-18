@@ -3,7 +3,7 @@ layout: page
 title: Brain Tissue Segmentation
 description: Expectation Maximization with a Gaussian Mixture Model
 img: assets/img/Dalle3_gmm.png
-importance: 3
+importance: 4
 category: Segmentation
 ---
 
