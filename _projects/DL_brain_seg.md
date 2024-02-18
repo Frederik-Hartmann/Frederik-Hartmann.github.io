@@ -1,7 +1,7 @@
 ---
 layout: page
-title: A new brain atlas
-description: Deep learning ensemble for brain tissue segmentation
+title: Deep learning ensemble for brain tissue segmentation
+description: A 2D and 3D CNN Ensemble Approach for MRI Segmentation
 img: assets/projectImages/DL_brain_seg/Dalle3_brain_dl.png
 importance: 1
 category: Segmentation
